@@ -1,1 +1,1 @@
-# Esse programa soma dois números
+# programa com javaScript que soma dois números
