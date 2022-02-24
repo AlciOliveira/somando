@@ -1,1 +1,1 @@
-# somando  esse programa soma dois números
+# Esse programa soma dois números
